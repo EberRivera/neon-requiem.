@@ -9,7 +9,7 @@
 ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-blue?style=for-the-badge)
 
 ## 🎮 Play the game
-[**[ JUGAR AHORA / PLAY NOW ]**](https://tu-usuario.github.io/neon-requiem) *(<- Nota: Cambia esto por tu enlace real de GitHub Pages)*
+[**[ JUGAR AHORA / PLAY NOW ]**](https://eberrivera.github.io/neon-requiem./)
 
 ---
 
